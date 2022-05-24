@@ -1,44 +1,6 @@
-
-/* .row{
-    
-    color:rgb(251, 249, 249);
-    display: flex; 
-    margin: 20px;
-    column-gap: 40px;
-    
-    
-    
-    
-}
+  
     
 
-
-.col, .col-2 , .col-3{
-    background-color: rgb(52, 165, 152) ;
-    height: 30px;
-    width: 200px;
-    margin-left: 50px;
-    margin-right: 40px;
-    display: flex;
-}
-
-.col-2{
-    display: flex;
-    margin-right: 400px;
-    margin-left: 50px;
-    justify-items: center;
-    
-    
-}
-.col-3{
-    display: flex;
-    justify-items: center;
-    margin-right: 20px;
-    
-}
-
-
- */
 
 body {
     display: block;
